@@ -1,0 +1,8 @@
+{
+  "appId": "com.xiiico.rotadedefesa",
+  "appName": "Rota de Defesa",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#1d2b16"
+  }
+}
